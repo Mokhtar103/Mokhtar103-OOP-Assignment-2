@@ -1,2 +1,5 @@
 # Mokhtar103-OOP-Assignment-2
 Assignment repo for assignment/1-6 (OOP Assignment 2)
+
+Name : Ahmed Mohamed Mokhtar Mohamed
+Group : .Net Group 2
